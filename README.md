@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
@@ -621,7 +620,7 @@
   </div>
 
   <footer>
-    <a href="spider-world.html" class="back-button">
+    <a href="https://gappy-cuatro-bolas.github.io/el-mundo-de-las-ara-as2/" class="back-button">
       <i class="fas fa-arrow-left"></i> Volver al Mundo de las Arañas
     </a>
     <div class="footer-bottom">
