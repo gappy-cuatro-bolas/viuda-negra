@@ -381,6 +381,38 @@
       border-radius: 2px;
     }
 
+    /* Sección de video */
+    .video-section {
+      text-align: center;
+      margin: 2rem 0;
+    }
+
+    .video-button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      background: var(--primary);
+      color: white;
+      padding: 1rem 2rem;
+      border-radius: 50px;
+      text-decoration: none;
+      font-weight: 600;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 15px rgba(255, 77, 109, 0.4);
+      margin-top: 1rem;
+    }
+
+    .video-button:hover {
+      background: var(--primary-dark);
+      transform: translateY(-3px);
+      box-shadow: 0 6px 20px rgba(217, 4, 41, 0.6);
+    }
+
+    .video-button i {
+      margin-right: 10px;
+      font-size: 1.2rem;
+    }
+
     /* Footer */
     footer {
       background: linear-gradient(to bottom, rgba(15, 15, 15, 0.9), rgba(8, 8, 8, 0.95));
@@ -616,6 +648,18 @@
         <li>Su veneno se está estudiando para aplicaciones médicas</li>
         <li>Son generalmente tímidas y solo muerden en defensa propia</li>
       </ul>
+    </div>
+
+    <div class="info-section">
+      <h2 class="section-title">Video Explicativo</h2>
+      <p>Para aprender más sobre la fascinante biología y comportamiento de la Viuda Negra, te recomendamos ver este documental especializado de National Geographic:</p>
+      
+      <div style="text-align: center; margin-top: 1.5rem;">
+        <a href="https://www.youtube.com/watch?v=QkP7B-5qjGs" target="_blank" class="video-button">
+          <i class="fas fa-play"></i> Ver documental completo
+        </a>
+        <p style="margin-top: 1rem; font-size: 0.9rem; color: rgba(255,255,255,0.7);">Duración: 12 minutos | Contenido educativo</p>
+      </div>
     </div>
   </div>
 
