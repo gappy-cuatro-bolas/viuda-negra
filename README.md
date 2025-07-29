@@ -547,7 +547,7 @@
       <h2 class="section-title">Galería</h2>
       <div class="gallery">
         <div class="gallery-item">
-          <img src="https://cdnwine.diario1.com/wp-content/uploads/2023/08/Viuda-Negra.jpg" alt="Viuda Negra hembra">
+          <img src="https://ruralnet.com.ar/wp-content/uploads/2023/02/viuda-negra-1.jpg" alt="Viuda Negra hembra">
           <div class="gallery-caption">Hembra adulta</div>
         </div>
         <div class="gallery-item">
