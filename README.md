@@ -664,7 +664,7 @@
   </div>
 
   <footer>
-    <a href="https://gappy-cuatro-bolas.github.io/el-mundo-de-las-ara-as2/" class="back-button">
+    <a href="https://gappy-cuatro-bolas.github.io/el-mundo-de-las-arallas/" class="back-button">
       <i class="fas fa-arrow-left"></i> Volver al Mundo de las Arañas
     </a>
     <div class="footer-bottom">
