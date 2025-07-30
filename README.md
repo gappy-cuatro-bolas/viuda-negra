@@ -655,7 +655,7 @@
       <p>Para aprender más sobre la fascinante biología y comportamiento de la Viuda Negra, te recomendamos ver este documental especializado de National Geographic:</p>
       
       <div style="text-align: center; margin-top: 1.5rem;">
-        <a href="https://www.youtube.com/watch?v=QkP7B-5qjGs" target="_blank" class="video-button">
+        <a href="https://www.youtube.com/watch?v=4nFNqanHAuM" target="_blank" class="video-button">
           <i class="fas fa-play"></i> Ver documental completo
         </a>
         <p style="margin-top: 1rem; font-size: 0.9rem; color: rgba(255,255,255,0.7);">Duración: 12 minutos | Contenido educativo</p>
